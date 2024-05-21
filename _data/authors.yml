@@ -1,18 +1,12 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Carina Seitz"
+  uri         : "http://carinaseitz.github.io"
+  email       : "cseitz@comahue-conicet.gob.ar"
+  bio         : "Earth and (paleo) aquatic scientist. Interested in understanding the impact of climate change and human impact on aquatic ecosystems."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : "seitz_carina"
+  google_plus : "https://scholar.google.com/citations?hl=en&user=Pm0sBWAAAAAJ"
+  
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
