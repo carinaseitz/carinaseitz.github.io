@@ -9,14 +9,12 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Projects"
+    url: /projects/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Fieldwork"
+    url: /fieldwork/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
