@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About
-=====
 Hi! I’m Carina, an Assistant Researcher and Teaching Assistant at the Department of Geology and Petroleum, INIBIOMA, Centro Regional Universitario Bariloche (CRUB) (Universidad Nacional del Comahue-CONICET), San Carlos de Bariloche (Argentina). I am also part of the GECARA group at the INIBIOMA Institute, which studies aquatic ecosystems and particularly water quality.
 
 My work focuses on understanding how aquatic ecosystems respond to natural and anthropogenic factors, including, but not limited to, the ecosystems of Northern Patagonia. I use Neo- and Paleo-limnology to better understand these ecosystems' changes and inform for management and conservation.
