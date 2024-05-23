@@ -19,15 +19,7 @@ Work experience
 
 * 2022-Present: Researcher.
     * Departament of Geology and Petroleum, INIBIOMA, Centro Regional Universitario Bariloche (CRUB) (UNCo- CONICET).
-    
-* 2023- Present. Teaching Assistant
-    * Departament of Geology and Petroleum, CRUB, Universidad Nacional del Comahue. 
-    * Teaching undergraduate courses in Biology and Civil engineering.
-    
-* 2015-2023. Teaching Assistant
-    * Departament of Geology, Universidad Nacional del Sur. 
-    * Teaching undergraduate courses in Biology and Geology.
-    
+      
 * 2020- Postdoctoral Fellow. 
     * Queen Elizabeth II Advanced Scholar. Department of Geology, University of Regina (SK, Canada).
 
@@ -63,6 +55,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+* 2023- Present. Teaching Assistant
+    * Departament of Geology and Petroleum, CRUB, Universidad Nacional del Comahue. 
+    * Teaching undergraduate courses in Biology and Civil engineering.
+    
+* 2015-2023. Teaching Assistant
+    * Departament of Geology, Universidad Nacional del Sur. 
+    * Teaching undergraduate courses in Biology and Geology.
+
 Service and leadership
 ======
 * Currently leading a the Publication working group at the Red de diatomólogos hispanohablantes of about 45 participants.
