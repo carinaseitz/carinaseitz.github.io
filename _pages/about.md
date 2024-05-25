@@ -17,12 +17,7 @@ I am a geologist, geomorphologist, and aquatic (paleo)ecologist with a broad bac
 
 My background and history
 =====
-I received my B.A. in geology at the Universidad Nacional de Rio Cuarto (Argentina). After my B.A. I worked for 4.5 years at a consulting company until I started my Ph.D in geology and became a teaching assistant at the Universidad Nacional del Sur (Argentina). After receiving my Ph.D, I was a postdoctoral scholar at the University of Regina (SK, Canada) and then at the University of Nevada, Reno (NV, USA). After this, I became an investigator in the Department of Geology and Petroleum at the Centro Regional Universitario Bariloche (CRUB) from the Universidad Nacional del Comahue-CONICET. **I have led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series.**
-
-My intellectual communities (IN PROGRESS)
-======
-
-I’m a disciplinary nomad, integrating disciplines like computer science, information science, social psychology, and organization/management science with fields like philosophy, sociology, anthropology, and history of science and technology. In terms of academic specialties, I spend a lot of my time in the fields of Science and Technology Studies, Computer-Supported Cooperative Work, and new media / internet studies. Methodologically, while I am trained as a qualitative ethnographer, I also rely on other qualitative, quantitative, and computational methods. I often use more statistical forms of analysis to contextualize and further support more qualitative approaches, frequently collaborating with people from other disciplines. I frequently speak at conferences and events, and I also consult with various groups, organizations, and companies about a wide range of topics.
+I received my B.A. in geology at the Universidad Nacional de Rio Cuarto (Argentina). After my B.A. I worked for 4.5 years at a consulting company until I started my Ph.D in geology and became a teaching assistant at the Universidad Nacional del Sur (Argentina). After receiving my Ph.D, I was a postdoctoral scholar at the University of Regina (SK, Canada) and then at the University of Nevada, Reno (NV, USA). After this experiences, I became an investigator in the Department of Geology and Petroleum at the Centro Regional Universitario Bariloche (CRUB) from the Universidad Nacional del Comahue-CONICET. 
 
 
 
