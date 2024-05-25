@@ -1,13 +1,15 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
+title: "Characterization of algal community composition and structure from the nearshore environment, Lake Tahoe (United States)"
+collection: 2023
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: ' A voucher flora, complete with descriptions, photo-documentation and referencing to species concepts employed, was created as a method of providing reproducible identification and enumeration of algal species, and more seamless reconciliation of detailed taxonomic data with future monitoring projects.'
+date: 2023-01-01
+venue: 'Front. Ecol. Evol.Sec. Paleoecology'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://www.frontiersin.org/articles/10.3389/fevo.2022.1053499/full'
+citation: 'Noble P., Seitz C.(2023). &quot;Characterization of algal community composition and structure from the nearshore environment, Lake Tahoe (United States).&quot; <i>Front. Ecol. Evol.Sec. Paleoecology</i>. 10.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Periphyton assemblages from the nearshore environment of the west (California) side of Lake Tahoe, were analyzed to determine their taxonomic composition and community structure across habitats and seasons. Lake Tahoe is the second deepest lake in the US and an iconic oligotrophic subalpine lake with remarkable transparency. It has experienced offshore cultural eutrophication since the 1960s with observations of nuisance nearshore algal growth since the mid 2000s attributed to anthropogenic stressors. Samplings from November 2019–September 2020 provide useful snapshots against which older monitoring may be contextualized. A voucher flora, complete with descriptions, photo-documentation and referencing to species concepts employed, was created as a method of providing reproducible identification and enumeration of algal species, and more seamless reconciliation of detailed taxonomic data with future monitoring projects. The eulittoral zone (0–2 m) is seasonally dominated by elongate araphid (Synedra, Ulnaria) and stalked or entubed diatoms (Gomphonema, Cymbella, Encyonema). The sublittoral zone (>2 m) is dominated by a nitrogen-fixing Epithemia-cyanobacteria assemblage with less seasonal changes in dominance and composition that expanded to impinge on the 2 m depths of the eulittoral zone in the Fall. Sublittoral epipsammic samples, despite their proximity to rocks, had a very distinct diatom composition and high species dominance, similar to what was seen in the Fall eulittoral samples, with high numbers of Staurosirella chains and small biraphid diatoms. The deeper samples at 30 and 50 m contained high numbers of live Epithemia, and indicate a thriving sublittoral assemblage at these greater depths, but with less biomass. The 2019–20 data show many of the same diatom taxa observed in the 1970’s and 1980’s but with changes in species dominance. Notably, there was less of the green alga Mougeotia, when compared to the 1970’s data, and a higher dominance by nitrogen fixing Epithemia in the sublittoral zone, persisting year-round. These new data show roughly double the algal species biodiversity that had been documented previously in the Lake Tahoe nearshore, and is largely attributed to the methods employed. Adopting these new methods in future monitoring efforts should improve harmonization of taxonomic data and help advance our knowledge of the contributions to nearshore cultural eutrophication.
+
+1. Introduction
