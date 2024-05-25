@@ -5,7 +5,6 @@ permalink: /publication/2023Sea-level-changes-paleoenvironmental-responses
 excerpt: 'We explored the effects of Late Holocene sea-level variations in the Suwannee River Estuary within the Big Bend region of Florida (USA).'
 date: 2023-01-01
 venue: 'Journal of paleolimnology'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://link.springer.com/10.1007/s10933-022-00275-4'
 citation: '_Seitz, C._ (2023). &quot; Sea level changes and paleoenvironmental responses in a coastal Florida salt marsh over the last three centuries.&quot; <i>Journal of Paleolimnology </i>. 69.'
 ---
