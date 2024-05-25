@@ -6,7 +6,7 @@ excerpt: 'We explored the effects of Late Holocene sea-level variations in the S
 date: 2023-01-01
 venue: 'Journal of paleolimnology'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://link.springer.com/10.1007/s10933-022-00275-4)'
+paperurl: 'https://link.springer.com/10.1007/s10933-022-00275-4'
 citation: 'Seitz, C. (2023). &quot; Sea level changes and paleoenvironmental responses in a coastal Florida salt marsh over the last three centuries.&quot; <i>Journal of Paleolimnology 1</i>. 69.'
 ---
 
