@@ -1,6 +1,6 @@
 ---
 title: "Is collaborative management always possible? The case of Sauce Grande River Basin, Argentina"
-collection: 20218
+collection: 2018
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Given the practical and theoretical relevance that stakeholders’ participation has achieved in the frame of new approaches for watershed management, this paper aims to identify the possibility of implementing a collaborative strategy in the particular case of the Sauce Grande River Basin (SGRB), Argentina.'
 date: 2018-02-17
