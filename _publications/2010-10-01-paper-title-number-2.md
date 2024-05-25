@@ -5,7 +5,6 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ' A voucher flora, complete with descriptions, photo-documentation and referencing to species concepts employed, was created as a method of providing reproducible identification and enumeration of algal species, and more seamless reconciliation of detailed taxonomic data with future monitoring projects.'
 date: 2023-01-01
 venue: 'Front. Ecol. Evol.Sec. Paleoecology'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fevo.2022.1053499/full'
 citation: 'Noble P., _Seitz C._(2023). &quot;Characterization of algal community composition and structure from the nearshore environment, Lake Tahoe (United States).&quot; <i>Front. Ecol. Evol.Sec. Paleoecology</i>. 10.'
 ---
