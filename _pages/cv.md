@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /publication/Carina Seitz CV complete.pdf
 author_profile: true
 redirect_from:
   - /resume
----
+------
 
 {% include base_path %}
 
