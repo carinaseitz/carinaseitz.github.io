@@ -2,18 +2,12 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-slidesurl: 'http://carinaseitz.github.io/files/Carina Seitz CV complete.pdf'
 paperurl: 'http://carinaseitz.github.io/files/Carina Seitz CV complete.pdf'
 author_profile: true
 redirect_from:
   - /resume
 ---
 ---
-title: "Complete CV"
-excerpt: "1<br/><pdf src='/files/Carina Seitz CV complete.pdf'>"
-collection: CV
----
-
 {% include base_path %}
 
 Education
