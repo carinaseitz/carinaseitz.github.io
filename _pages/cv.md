@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /publication/Carina Seitz CV complete.pdf
+permalink:
 author_profile: true
 redirect_from:
   - /resume
