@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "CRUB-Universidad Nacional del Comahue, Department of Geology and Petroleum"
+date: 2014-2023
+location: "Bahia Blanca, Argentina"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Teaching Assistant
 ======
