@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Fieldwork and results of the Invasive Quagga Mussel Survival Test for Pyramid Lake project"
+excerpt: "co-PI, the project was funded by The Pyramid Lake Fisheries $178k <br/><img src='/images/Quagga mussel.jpg'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
