@@ -8,7 +8,7 @@ permalink: /cv/
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-You can download my full CV <u><a href="http://carinaseitz.github.io/files/Carina Seitz CV complete.pdf">here.</a></u>
+You can download my full CV <u><a href="http://carinaseitz.github.io/files/Carina Seitz CV complete.pdf"> from here.</a></u>
 <br/>
 
 ----
