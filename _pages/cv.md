@@ -51,9 +51,6 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 * 2023- Present. Teaching Assistant
     * Departament of Geology and Petroleum, CRUB, Universidad Nacional del Comahue. 
