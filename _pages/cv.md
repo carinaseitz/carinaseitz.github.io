@@ -11,9 +11,8 @@ permalink: /cv/
 You can download my full CV <u><a href="http://carinaseitz.github.io/files/Carina Seitz CV complete.pdf">here.</a></u>
 <br/>
 
-<embed src="http://carinaseitz.github.io/files/Carina Seitz CV complete.pdf" type="application/pdf" width="100%" />
-
 ----
+
 Education
 ======
 * Ph.D in Geology, Universidad Nacional del Sur (Argentina), 2019
