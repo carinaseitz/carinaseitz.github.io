@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Carina Seitz"
 title_separator          : "-"
 name                     : &name "Carina Seitz"
-description              : &description "Earth and aquatic (paleo) ecology"
+description              : &description "Paleolimnology, aquatic ecology, and environmental change"
 url                      : https://carinaseitz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/carinaseitz/carinaseitz.github.io"
+repository               : "carinaseitz/carinaseitz.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "IMG_20200803_133421.jpg"
   name             : "Carina Seitz"
-  pronouns         : "she/her"  
-  bio              : "Earth and aquatic (paleo)ecologist scientist. Studying natural and anthropogenic impacts on aquatic ecosystems."
-  location         : "San Carlos de Bariloche (Rio Negro, Argentina)"
-  employer         : "INIBIOMA-CRUB (UNCo-CONICET)"
+  pronouns         : "she/her"
+  bio              : "Geologist, limnologist, and paleoecologist. Connecting sediment archives, landscapes, and modern monitoring."
+  location         : "Reno, Nevada, USA"
+  employer         : "University of Nevada, Reno; UNCo-CONICET"
   uri              : # URL
-  email            : "cseitz@comahue-conicet.gob.ar" 
+  email            : "cseitz@unr.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,8 +44,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "carinaseitz"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
@@ -335,3 +335,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
