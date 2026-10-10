@@ -14,7 +14,7 @@ name                     : &name "Carina Seitz"
 description              : &description "Paleolimnology, aquatic ecology, and environmental change"
 url                      : https://carinaseitz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/carinaseitz/carinaseitz.github.io"
+repository               : "carinaseitz/carinaseitz.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -335,3 +335,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
